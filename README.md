@@ -2,6 +2,9 @@
 
 ## Install the dependencies
 
+## screenshot
+![screenshot](/src/assets/img.png)
+
 ```bash
 pnpm i
 ```
